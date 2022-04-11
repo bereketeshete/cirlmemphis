@@ -1,8 +1,8 @@
 read me
 
 <ul>
-  Home
-  Softwares
-  Tutorials
+  - Home 
+  - Softwares
+  - Tutorials
   
 </ul>
